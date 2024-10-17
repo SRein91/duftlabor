@@ -134,6 +134,25 @@ function loadContent(page) {
                 `;
             break;
 
+        case 'agb':
+            fetch('./AGBFooter.html') 
+            .then(response => response.text())
+            .then(data => {
+                content.innerHTML = data;
+            })
+            .catch(error => {
+                console.error('Error loading the AGB content:', error);
+            });
+            break;
+
+        case 'impressum':
+            content.innerHTML = `
+                <div class="workshop-container">
+                    
+                </div>
+                `;
+            break;
+
         default:
             content.innerHTML = `<h1>Seite nicht gefunden</h1>`;
     }
