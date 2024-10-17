@@ -134,6 +134,43 @@ function loadContent(page) {
                 `;
             break;
 
+        case 'agb':
+            fetch('./AGBFooter.html') 
+            .then(response => response.text())
+            .then(data => {
+                content.innerHTML = data;
+            })
+            .catch(error => {
+                console.error('Error loading the AGB content:', error);
+            });
+            break;
+
+        case 'impressum':
+            content.innerHTML = `
+                <div class="company-info">
+                    <p><strong>duftlabor GbR</strong><br>
+                    Kleinfeldstraße 31<br>
+                    68165 Mannheim<br>
+                    Deutschland</p>
+                    
+                    <p><strong>Telefon:</strong> +49 178 6142934<br>
+                    <strong>Email:</strong> <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></p>
+
+                    <p><strong>Vertreten durch die geschäftsführenden Gesellschafter:</strong></p>
+                    <ul>
+                        <li>Stella Norwig</li>
+                        <li>Sonja Reinholz</li>
+                        <li>Theodora Tunc</li>
+                    </ul>
+
+                    <p><strong>Informationen zur Online-Streitbeilegung:</strong><br>
+                    Die EU-Kommission hat eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. „OS-Plattform“) geschaffen. Die OS-Plattform dient als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten betreffend vertragliche Verpflichtungen, die aus Online-Kaufverträgen erwachsen. Sie können die OS-Plattform unter dem folgenden Link erreichen: <a href="http://ec.euopa.eu/consumers/odr" target="_blank">http://ec.euopa.eu/consumers/odr</a>.</p>
+
+                    <p><em>Hinweis gemäß § 36 Verbraucherstreitbeilegungsgesetz (VSBG):</em> Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.</p>
+                </div>
+                `;
+            break;
+
         default:
             content.innerHTML = `<h1>Seite nicht gefunden</h1>`;
     }
