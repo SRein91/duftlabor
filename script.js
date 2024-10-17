@@ -64,29 +64,74 @@ function loadContent(page) {
 
         case 'kontakt':
             content.innerHTML = `
-                <img src="./img/imgworkshop.png" alt="Kontakt Image">
-                <div class="text-content">
-                    <h1>Kontaktieren Sie uns</h1>
-                    <p>Sie können uns über dieses Formular kontaktieren.</p>
-                </div>`;
+                <div class="workshop-container">
+                    <img src="./img/kontakt.png" alt="Workshop Image" class="workshop-image">
+                    <div class="text-content">
+                        <div class="kontakt-section">
+                            <h1>Kontakt</h1>
+                            <p>Hast du eine Frage, eine Anregung, oder brauchst du eine Beratung?</p>
+                            <p>Melde dich gerne unter:</p>
+                            <ul>
+                                <li>Email: <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
+                                <li>Instagram: <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
+                                <li>Telefon: <a href="tel:+491786142934">+49 178 6142934</a></li>
+                            </ul>
+                            <p>Stella, Theo & Sonja</p>
+                        </div>
+                    </div>
+                </div>
+                `;
             break;
 
         case 'uberUns':
             content.innerHTML = `
-                <img src="about.jpg" alt="Über Uns Image">
-                <div class="text-content">
-                    <h1>Über Uns</h1>
-                    <p>Erfahren Sie mehr über unser Team und unsere Geschichte.</p>
-                </div>`;
+                <div class="workshop-container">
+                    <img src="./img/uberuns.png" alt="Workshop Image" class="workshop-image">
+                    <div class="text-content">
+                        <div class="about-section">
+                            <h1>Willkommen bei Duftlabor!</h1>
+                            <p>
+                                Duftlabor wurde 2024 von drei reisebegeisterten Freundinnen ins Leben gerufen, die auf ihren Abenteuern nicht nur atemberaubende Landschaften, sondern auch faszinierende Düfte entdeckten. Von Lavendelfeldern über leuchtende Orangenbäume bis hin zum warmen Holzgeruch im Wald – es sind diese intensiven Aromen, die uns auf unseren Reisen begleiten und uns in Erinnerung bleiben.
+                            </p>
+                            <p>
+                                Um tiefer in die faszinierende Welt der Düfte einzutauchen, haben sich die Freundinnen auf unterschiedliche Weise weitergebildet: Stella machte eine Ausbildung zur Aromatherapeutin, Sonja reiste nach Grasse, dem Herzen der europäischen Parfümindustrie, um mehr über die Geschichte der Parfümherstellung zu erfahren, und Theodora besuchte verschiedene Workshops zur Herstellung von Naturkosmetik mit ätherischen Ölen. Gemeinsam besuchten sie aufbauend verschiedene Lehrgänge zur Parfümherstellung und experimentierten mit unterschiedlichen Parfümölen, die ihre Leidenschaft für Düfte weiter entfachte.
+                            </p>
+                            <h2>Warum wir Düfte lieben?</h2>
+                            <p>
+                                Weil sie unser Wohlbefinden und unsere Stimmung entscheidend beeinflussen. Mit der Wahl eines Duftes verleihen wir unserer Persönlichkeit Ausdruck. Zudem glauben wir fest daran, dass Kreativität und der bewusste Einsatz unserer Sinne zu einem erfüllten Leben beitragen.
+                            </p>
+                            <p>
+                                Unsere Leidenschaft für Duft möchten wir mit dir teilen! In unseren Parfüm-Workshops kannst du kreativ werden, neue Duftkombinationen entwickeln, spannende Menschen kennenlernen und dich austauschen – und der Spaß kommt dabei nicht zu kurz! Tauche ein in die Welt der Düfte und entdecke, was deine Sinne inspiriert!
+                            </p>
+                            <p>
+                                Werde ein Teil der Duftlabor-Community <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                `;
             break;
 
         case 'schenken':
             content.innerHTML = `
-                <img src="gift.jpg" alt="Schenken Image">
-                <div class="text-content">
-                    <h1>Geschenke</h1>
-                    <p>Entdecken Sie unsere Geschenkoptionen für Ihre Liebsten.</p>
-                </div>`;
+                <div class="workshop-container">
+                    <img src="./img/geschenkkarte.png" alt="Workshop Image" class="workshop-image">
+                    <div class="text-content">
+                        <div class="gift-section">
+                            <h1>Das perfekte Geschenk für jeden Anlass</h1>
+                            <p>
+                                Suchst du nach dem perfekten Geschenk? Mit einer Geschenkkarte von Duftlabor schenkst du deinen Liebsten ein individuelles und kreatives Erlebnis – nicht einfach nur Dinge!
+                            </p>
+                            <p>
+                                Unsere Geschenkkarten sind für alle unsere Parfüm-Workshops und DIY-Sets einlösbar und eignen sich ideal für alle, die etwas Außergewöhnliches verschenken möchten.
+                            </p>
+                            <p>
+                                Wenn du eine Geschenkkarte kaufen möchtest, schicke uns einfach eine E-Mail mit deinem Wunschbetrag an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> und du erhältst innerhalb kurzer Zeit deine Geschenkkarte. Et voilà – schon fertig.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                `;
             break;
 
         default:
