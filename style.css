@@ -55,6 +55,8 @@ nav ul li a:hover {
 /* Main Content */
 main {
     margin-top: 60px;
+    height: 100vh; /* Full viewport height for the parent */
+
 }
 
 section {
@@ -100,16 +102,31 @@ h1 {
 
 /* Footer Styling */
 footer {
-    background-color: #415342;
-    color: #EBDFCE;
+    background-color: #EBDFCE;
+    color: #415342;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     position: relative;
     bottom: 0;
     width: 100%;
 }
 
+footer a {
+    margin: 5px;
+}
+
 .agb-container {
     margin: 20px;
+}
+.company-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    height: 100%;
+    text-align: center; /* Optional: to center text content */
 }
 
 
