@@ -5,6 +5,8 @@ body {
     padding: 0;
     color: black;
     background-color: white;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Header and Navigation */
@@ -55,6 +57,8 @@ nav ul li a:hover {
 /* Main Content */
 main {
     margin-top: 60px;
+    display: flex;
+    flex: 1;
     height: 100vh; /* Full viewport height for the parent */
 
 }
@@ -104,10 +108,16 @@ h1 {
 footer {
     background-color: #EBDFCE;
     color: #415342;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer div {
     display: flex;
     flex-direction: column;
     text-align: center;
-    position: relative;
     bottom: 0;
     width: 100%;
 }
@@ -126,6 +136,7 @@ footer a {
     align-items: center;
     margin: 20px;
     height: 100%;
+    flex: 1;
     text-align: center; /* Optional: to center text content */
 }
 
