@@ -48,15 +48,13 @@ function loadContent(page) {
                             <p>11:00 Uhr - 13:30 Uhr</p>
 
                             <h2>Wo</h2>
-                            <p>Pâtisserie CØR</p>
-                            <p>Lameystraße 17</p>
-                            <p>68165 Mannheim</p>
+                            <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
 
                             <h2>Kosten</h2>
                             <p>79 Euro</p>
 
                             <h2>Anmeldung</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der +49 178 6142934 an.</p>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an.</p>
                         </div>
                             
                     </div>
@@ -75,11 +73,11 @@ function loadContent(page) {
                             <p>Hast du eine Frage, eine Anregung, oder brauchst du eine Beratung?</p>
                             <p>Melde dich gerne unter:</p>
                             <ul>
-                                <li>Email <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
-                                <li>Instagram <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
-                                <li>Telefon <a href="tel:+491786142934">+49 178 6142934</a></li>
+                                <li>Email &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
+                                <li>Instagram &nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
+                                <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
-                            <p>Stella, Theo & Sonja</p>
+                            <p>Stella, Theodora & Sonja</p>
                         </div>
                     </div>
                 </div>
