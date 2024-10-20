@@ -53,7 +53,7 @@ function loadContent(page) {
                             <p>79 Euro</p>
 
                             <h3>Anmeldung:</h3>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der 0172 - 9129703 an.</p>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der 0178 6142934 an.</p>
                         </div>
                             
                     </div>
@@ -126,7 +126,7 @@ function loadContent(page) {
                                 Unsere Geschenkkarten sind für alle unsere Parfüm-Workshops und DIY-Sets einlösbar und eignen sich ideal für alle, die etwas Außergewöhnliches verschenken möchten.
                             </p>
                             <p>
-                                Wenn du eine Geschenkkarte kaufen möchtest, schicke uns einfach eine E-Mail mit deinem Wunschbetrag an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> und du erhältst innerhalb kurzer Zeit deine Geschenkkarte. Et voilà – schon fertig.
+                                Wenn du eine Geschenkkarte kaufen möchtest, schicke uns einfach eine E-Mail mit deinem Wunschbetrag an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>. Kurz darauf erhältst du weitere Anweisungen von uns per Mail.
                             </p>
                         </div>
                     </div>
