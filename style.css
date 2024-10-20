@@ -10,12 +10,24 @@ body {
 }
 
 /* Header and Navigation */
+.banner {
+    background-color: #ed5b2e; /* orange */
+    position: relative;
+    color: #000000;            /* Text color */
+    text-align: center;        /* Center the text */
+    font-size: 14px;          /* Font size for the banner text */
+    font-weight: bold;
+    position: relative;        /* Position relative to the header */
+    z-index: 1000; 
+    line-height: 0.5;
+}
+
 header {
     background-color: white;
-    position: fixed;
-    padding: 10px 5px;
-    top: 0;
+    position: relative;
+    padding: 10px 0px;
     width: 100%;
+    top: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -58,7 +70,7 @@ nav ul li a:hover {
 
 /* Main Content */
 main {
-    margin-top: 80px;
+    margin-top: 20px;
     display: flex;
     flex: 1;
     height: 100vh; /* Full viewport height for the parent */
@@ -123,13 +135,13 @@ section {
 }
 
 h1 {
-    color: #415342;
+    color: #000000;
     margin-top: 0px;         /* Add space above the heading */
-    margin-bottom: 10px;      /* Add space below the heading */
+    margin-bottom: 20px;      /* Add space below the heading */
 }
 
 h2 {
-    font-size: 20px;          /* Set the font size */
+    font-size: 18px;          /* Set the font size */
     color: #000000;           /* Set the text color (same green you used for h1) */
     font-weight: bold;        /* Make the text bold */
     margin-top: 0px;         /* Add space above the heading */

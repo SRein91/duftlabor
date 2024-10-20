@@ -26,7 +26,8 @@ function loadContent(page) {
                             <h2>Werde Teil unserer Duft-Community</h2>
                             <p>Mach mit und erlebe die Kunst der Parfümkreation in einer inspirierenden, kreativen Umgebung. Lass uns gemeinsam unvergessliche Düfte kreieren und neue Freunde gewinnen!</p>
 
-                            <h2>Unsere Highlights auf einen Blick:</h2>
+                            <br>
+                            <h2>Unsere Highlights auf einen Blick</h2>
                             <ul>
                                 <li>Hintergrundinfos zur Parfümherstellung</li>
                                 <li>Einen Begrüßungssekt</li>
@@ -40,20 +41,22 @@ function loadContent(page) {
 
                             <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim, Heidelberg, Kassel und Hamburg statt.</p>
 
-                            <h2>Nächster freier Termin:</h2>
+                            <h2>Nächster freier Termin</h2>
                             <p>Sa, 23. November 2024 in Mannheim</p>
 
-                            <h2>Uhrzeit:</h2>
-                            <p>11:00 - 13:30</p>
+                            <h2>Uhrzeit</h2>
+                            <p>11:00 Uhr - 13:30 Uhr</p>
 
-                            <h2>Wo:</h2>
-                            <p>Pâtisserie CØR, Lameystraße 17, 68165 Mannheim</p>
+                            <h2>Wo</h2>
+                            <p>Pâtisserie CØR</p>
+                            <p>Lameystraße 17</p>
+                            <p>68165 Mannheim</p>
 
-                            <h2>Kosten:</h2>
+                            <h2>Kosten</h2>
                             <p>79 Euro</p>
 
-                            <h2>Anmeldung:</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der 0178 6142934 an.</p>
+                            <h2>Anmeldung</h2>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der +49 178 6142934 an.</p>
                         </div>
                             
                     </div>
@@ -72,9 +75,9 @@ function loadContent(page) {
                             <p>Hast du eine Frage, eine Anregung, oder brauchst du eine Beratung?</p>
                             <p>Melde dich gerne unter:</p>
                             <ul>
-                                <li>Email: <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
-                                <li>Instagram: <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
-                                <li>Telefon: <a href="tel:+491786142934">+49 178 6142934</a></li>
+                                <li>Email <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
+                                <li>Instagram <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
+                                <li>Telefon <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
                             <p>Stella, Theo & Sonja</p>
                         </div>
@@ -89,9 +92,9 @@ function loadContent(page) {
                     <img src="./img/uberuns.png" alt="Workshop Image" class="workshop-image">
                     <div class="text-content">
                         <div class="about-section">
-                            <h1>Willkommen bei Duftlabor!</h1>
+                            <h1>Willkommen bei duftlabor!</h1>
                             <p>
-                                Duftlabor wurde 2024 von drei reisebegeisterten Freundinnen ins Leben gerufen, die auf ihren Abenteuern nicht nur atemberaubende Landschaften, sondern auch faszinierende Düfte entdeckten. Von Lavendelfeldern über leuchtende Orangenbäume bis hin zum warmen Holzgeruch im Wald – es sind diese intensiven Aromen, die uns auf unseren Reisen begleiten und uns in Erinnerung bleiben.
+                                duftlabor wurde 2024 von drei reisebegeisterten Freundinnen ins Leben gerufen, die auf ihren Abenteuern nicht nur atemberaubende Landschaften, sondern auch faszinierende Düfte entdeckten. Von Lavendelfeldern über leuchtende Orangenbäume bis hin zum warmen Holzgeruch im Wald – es sind diese intensiven Aromen, die uns auf unseren Reisen begleiten und uns in Erinnerung bleiben.
                             </p>
                             <p>
                                 Um tiefer in die faszinierende Welt der Düfte einzutauchen, haben sich die Freundinnen auf unterschiedliche Weise weitergebildet: Stella machte eine Ausbildung zur Aromatherapeutin, Sonja reiste nach Grasse, dem Herzen der europäischen Parfümindustrie, um mehr über die Geschichte der Parfümherstellung zu erfahren, und Theodora besuchte verschiedene Workshops zur Herstellung von Naturkosmetik mit ätherischen Ölen. Gemeinsam besuchten sie aufbauend verschiedene Lehrgänge zur Parfümherstellung und experimentierten mit unterschiedlichen Parfümölen, die ihre Leidenschaft für Düfte weiter entfachte.
@@ -104,7 +107,7 @@ function loadContent(page) {
                                 Unsere Leidenschaft für Duft möchten wir mit dir teilen! In unseren Parfüm-Workshops kannst du kreativ werden, neue Duftkombinationen entwickeln, spannende Menschen kennenlernen und dich austauschen – und der Spaß kommt dabei nicht zu kurz! Tauche ein in die Welt der Düfte und entdecke, was deine Sinne inspiriert!
                             </p>
                             <p>
-                                Werde ein Teil der Duftlabor-Community <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a>
+                                Werde ein Teil der duftlabor-Community <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a>
                             </p>
                         </div>
                     </div>
@@ -120,7 +123,7 @@ function loadContent(page) {
                         <div class="gift-section">
                             <h1>Das perfekte Geschenk für jeden Anlass</h1>
                             <p>
-                                Suchst du nach dem perfekten Geschenk? Mit einer Geschenkkarte von Duftlabor schenkst du deinen Liebsten ein individuelles und kreatives Erlebnis – nicht einfach nur Dinge!
+                                Suchst du nach dem perfekten Geschenk? Mit einer Geschenkkarte von duftlabor schenkst du deinen Liebsten ein individuelles und kreatives Erlebnis – nicht einfach nur Dinge!
                             </p>
                             <p>
                                 Unsere Geschenkkarten sind für alle unsere Parfüm-Workshops und DIY-Sets einlösbar und eignen sich ideal für alle, die etwas Außergewöhnliches verschenken möchten.
