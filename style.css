@@ -220,7 +220,7 @@ footer a {
     .workshop-container img {
         width: 90%; /* Make the image responsive */
         height: auto; /* Maintain aspect ratio */
-        margin-top: 70px;
+        margin-top: 20px;
     }
 
     .workshop-container .text-content {
