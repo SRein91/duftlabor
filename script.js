@@ -54,7 +54,7 @@ function loadContent(page) {
                             <p>79 Euro</p>
 
                             <h2>Anmeldung</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an.</p>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an.</p>
                         </div>
                             
                     </div>
@@ -74,7 +74,7 @@ function loadContent(page) {
                             <p>Melde dich gerne unter:</p>
                             <ul>
                                 <li>Email &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
-                                <li>Instagram &nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
+                                <li>Instagram&nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
                                 <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
                             <p>Stella, Theodora & Sonja</p>
@@ -119,15 +119,15 @@ function loadContent(page) {
                     <img src="./img/geschenkkarte.png" alt="Workshop Image" class="workshop-image">
                     <div class="text-content">
                         <div class="gift-section">
-                            <h1>Das perfekte Geschenk für jeden Anlass</h1>
+                            <h1>Verschenke ein kreatives Erlebnis</h1>
                             <p>
-                                Suchst du nach dem perfekten Geschenk? Mit einer Geschenkkarte von duftlabor schenkst du deinen Liebsten ein individuelles und kreatives Erlebnis – nicht einfach nur Dinge!
+                                Suchst du nach einem individuellen Geschenk? Mit einer Geschenkkarte von duftlabor schenkst du deinen Liebsten ein individuelles und kreatives Erlebnis – nicht einfach nur Dinge!
                             </p>
                             <p>
-                                Unsere Geschenkkarten sind für alle unsere Parfüm-Workshops und DIY-Sets einlösbar und eignen sich ideal für alle, die etwas Außergewöhnliches verschenken möchten.
+                                Unsere Geschenkkarten sind für alle unsere Parfüm-Workshops einlösbar und eignen sich ideal für alle, die etwas Außergewöhnliches verschenken möchten.
                             </p>
                             <p>
-                                Wenn du eine Geschenkkarte kaufen möchtest, schicke uns einfach eine E-Mail mit deinem Wunschbetrag an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>. Kurz darauf erhältst du weitere Anweisungen von uns per Mail.
+                                Wenn du eine Geschenkkarte kaufen möchtest, schicke uns einfach eine E-Mail mit deinem Wunschbetrag an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>.
                             </p>
                         </div>
                     </div>
