@@ -26,7 +26,7 @@ function loadContent(page) {
                             <h2>Werde Teil unserer Duft-Community</h2>
                             <p>Mach mit und erlebe die Kunst der Parfümkreation in einer inspirierenden, kreativen Umgebung. Lass uns gemeinsam unvergessliche Düfte kreieren und neue Freunde gewinnen!</p>
 
-                            <h3>Unsere Highlights auf einen Blick:</h3>
+                            <h2>Unsere Highlights auf einen Blick:</h2>
                             <ul>
                                 <li>Hintergrundinfos zur Parfümherstellung</li>
                                 <li>Einen Begrüßungssekt</li>
@@ -35,24 +35,24 @@ function loadContent(page) {
                                 <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
                             </ul>
 
-                            <h3>Was du sonst noch wissen solltest</h3>
+                            <h2>Was du sonst noch wissen solltest</h2>
                             <p>Der Workshop ist nicht für Duftstoff-Allergiker geeignet.</p>
 
                             <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim, Heidelberg, Kassel und Hamburg statt.</p>
 
-                            <h3>Nächster freier Termin:</h3>
+                            <h2>Nächster freier Termin:</h2>
                             <p>Sa, 23. November 2024 in Mannheim</p>
 
-                            <h3>Uhrzeit:</h3>
+                            <h2>Uhrzeit:</h2>
                             <p>11:00 - 13:30</p>
 
-                            <h3>Wo:</h3>
+                            <h2>Wo:</h2>
                             <p>Pâtisserie CØR, Lameystraße 17, 68165 Mannheim</p>
 
-                            <h3>Kosten:</h3>
+                            <h2>Kosten:</h2>
                             <p>79 Euro</p>
 
-                            <h3>Anmeldung:</h3>
+                            <h2>Anmeldung:</h2>
                             <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duflabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der 0178 6142934 an.</p>
                         </div>
                             
