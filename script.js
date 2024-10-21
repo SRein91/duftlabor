@@ -54,7 +54,7 @@ function loadContent(page) {
                             <p>79 Euro</p>
 
                             <h2>Anmeldung</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duflabor@gmail.com</a> oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an.</p>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an.</p>
                         </div>
                             
                     </div>
