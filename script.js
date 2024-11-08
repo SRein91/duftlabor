@@ -54,7 +54,7 @@ function loadContent(page) {
                             <p>79 Euro</p>
 
                             <h2>Anmeldung</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>. <!-- oder ruf uns unter der <a href="tel:+491786142934">+49 178 6142934</a> an. --> </p>
+                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
                         </div>
                             
                     </div>
@@ -75,7 +75,7 @@ function loadContent(page) {
                             <ul>
                                 <li>Email &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></li>
                                 <li>Instagram&nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
-                                <!-- <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li> -->
+                                <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
                             <p>Stella, Theodora & Sonja</p>
                         </div>
@@ -154,7 +154,7 @@ function loadContent(page) {
                     68165 Mannheim<br>
                     Deutschland</p>
                     
-                    <!-- <p><strong>Telefon:</strong> +49 178 6142934<br> -->
+                    <p><strong>Telefon:</strong> +49 178 6142934<br>
                     <strong>Email:</strong> <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a></p>
 
                     <p><strong>Vertreten durch die geschäftsführenden Gesellschafter:</strong></p>
