@@ -10,27 +10,10 @@ function loadContent(page) {
                         <div class="workshop-details">
                             <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
                             <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>
-
-                            <h2>Deine sensorische Reise</h2>
-                            <p>Erlebe eine Reise durch faszinierende Duftwelten – von spritzigen Zitronengras über warmen Moschus bis hin zu blumigen Aromen. Hier hast du die Möglichkeit, die Kunst der Parfümkreation auf eine völlig neue Art zu entdecken. Unsere Workshops finden dabei regelmäßig in ausgewählten, stilvollen Locations statt, die eine inspirierende Atmosphäre bieten, um kreativ zu werden.</p>
-
-                            <h2>Kreativ sein und experimentieren</h2>
-                            <p>In unserem Parfüm-Workshop erhältst du nicht nur wertvolles Wissen über die Kunst des Parfümhandwerks, sondern auch die Freiheit, deinen eigenen Duft zu kreieren. Wir begleiten dich dabei, während du mit verschiedenen Duftnoten experimentierst. Und ganz nebenbei hast du die Chance, neue Kontakte zu knüpfen und Gleichgesinnte kennenzulernen!</p>
-
-                            <h2>Genuss und Verwöhnmomente</h2>
-                            <p>Und weil es bei uns nicht nur um Düfte geht, lassen wir es uns richtig gut gehen! Genieße ein köstliches Törtchen von der Pâtisserie CØR, erfrischenden Sekt und ein warmes Getränk, während du kreativ wirst. So wird der Workshop zu einem echten Verwöhnmoment für alle Sinne!</p>
-
-                            <h2>Dein persönliches Parfüm</h2>
-                            <p>Am Ende des Workshops wirst du dein ganz eigenes Parfüm kreiert haben – ein Duft, der perfekt zu dir passt. Und das Beste: Du darfst 50 ml deines Parfüms am Ende des Workshops in einem schönen Flakon mit nach Hause nehmen.</p>
-
-                            <h2>Werde Teil unserer Duft-Community</h2>
-                            <p>Mach mit und erlebe die Kunst der Parfümkreation in einer inspirierenden, kreativen Umgebung. Lass uns gemeinsam unvergessliche Düfte kreieren und neue Freunde gewinnen!</p>
-
-                            <br>
+                            <p>Ob als Erlebniss in einer bunt gemischten Workshop-Gruppe, als Event für eure nächste Firmenfeier oder für einen besonderen Junggesellenabschied - seid jetzt dabei.</p>                            
                             <h2>Unsere Highlights auf einen Blick</h2>
                             <ul>
                                 <li>Hintergrundinfos zur Parfümherstellung</li>
-                                <li>Einen Begrüßungssekt</li>
                                 <li>Ein Törtchen und ein warmes Getränk der Pâtisserie CØR</li>
                                 <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
                                 <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
@@ -39,19 +22,19 @@ function loadContent(page) {
                             <h2>Was du sonst noch wissen solltest</h2>
                             <p>Der Workshop ist nicht für Duftstoff-Allergiker geeignet.</p>
 
-                            <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim, Heidelberg, Kassel und Hamburg statt.</p>
+                            <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim und Hamburg statt.</p>
 
                             <h2>Nächster freier Termin</h2>
-                            <p>Sa, 23. November 2024 in Mannheim</p>
+                            <p>Sa, 16. Februar 2025 in Mannheim</p>
 
                             <h2>Uhrzeit</h2>
-                            <p>11:00 Uhr - 13:30 Uhr</p>
+                            <p>10:00 Uhr - 13:30 Uhr</p>
 
                             <h2>Wo</h2>
                             <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
 
                             <h2>Kosten</h2>
-                            <p>79 Euro</p>
+                            <p>89 Euro</p>
 
                             <h2>Anmeldung</h2>
                             <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
@@ -92,17 +75,25 @@ function loadContent(page) {
                         <div class="about-section">
                             <h1>Willkommen bei duftlabor!</h1>
                             <p>
-                                duftlabor wurde 2024 von drei reisebegeisterten Freundinnen ins Leben gerufen, die auf ihren Abenteuern nicht nur atemberaubende Landschaften, sondern auch faszinierende Düfte entdeckten. Von Lavendelfeldern über leuchtende Orangenbäume bis hin zum warmen Holzgeruch im Wald – es sind diese intensiven Aromen, die uns auf unseren Reisen begleiten und uns in Erinnerung bleiben.
+                            Wir – Stella, Sonja und Theodora – sind drei begeisterte Workshop-Fans und lieben
+                            es, in entspannter Atmosphäre gemeinsam kreativ zu sein. Für uns ist das der perfekte
+                            Ausgleich nach einem langen Arbeitstag: Im Moment sein, Neues ausprobieren und unsere
+                            Sinne aktivieren. Workshops geben uns genau das – die Möglichkeit, in guter Gesellschaft
+                            dem Alltag zu entfliehen und uns kreativ auszutoben.
                             </p>
                             <p>
-                                Um tiefer in die faszinierende Welt der Düfte einzutauchen, haben sich die Freundinnen auf unterschiedliche Weise weitergebildet: Stella machte eine Ausbildung zur Aromatherapeutin, Sonja reiste nach Grasse, dem Herzen der europäischen Parfümindustrie, um mehr über die Geschichte der Parfümherstellung zu erfahren, und Theodora besuchte verschiedene Workshops zur Herstellung von Naturkosmetik mit ätherischen Ölen. Gemeinsam besuchten sie aufbauend verschiedene Lehrgänge zur Parfümherstellung und experimentierten mit unterschiedlichen Parfümölen, die ihre Leidenschaft für Düfte weiter entfachte.
+                            Besonders Düfte haben uns von Anfang an fasziniert, denn sie beeinflussen unsere
+                            Stimmung und unser Wohlbefinden. Mit einem Duft können wir unsere Persönlichkeit
+                            ausdrücken und etwas ganz Eigenes schaffen. Nach zahlreichen Parfüm-Lehrgängen haben
+                            wir nun den Wunsch, diese Leidenschaft für Düfte nicht nur mit Freunden, sondern mit euch
+                            zu teilen! Deshalb haben wir unser Start-Up duftlabor hier in Mannheim gegründet.
                             </p>
-                            <h2>Warum wir Düfte lieben?</h2>
                             <p>
-                                Weil sie unser Wohlbefinden und unsere Stimmung entscheidend beeinflussen. Mit der Wahl eines Duftes verleihen wir unserer Persönlichkeit Ausdruck. Zudem glauben wir fest daran, dass Kreativität und der bewusste Einsatz unserer Sinne zu einem erfüllten Leben beitragen.
+                            In unseren DIY-Parfüm-Workshops kannst du eigene Duftkreationen entwickeln, neue
+                            Menschen kennenlernen und dich inspirieren lassen.
                             </p>
                             <p>
-                                Unsere Leidenschaft für Duft möchten wir mit dir teilen! In unseren Parfüm-Workshops kannst du kreativ werden, neue Duftkombinationen entwickeln, spannende Menschen kennenlernen und dich austauschen – und der Spaß kommt dabei nicht zu kurz! Tauche ein in die Welt der Düfte und entdecke, was deine Sinne inspiriert!
+                            Lass uns zusammen die Welt der Düfte entdecken – wir freuen uns auf dich!
                             </p>
                             <p>
                                 Werde ein Teil der duftlabor-Community <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a>
