@@ -14,7 +14,7 @@ function loadContent(page) {
                             <h2>Unsere Highlights auf einen Blick</h2>
                             <ul>
                                 <li>Hintergrundinfos zur Parfümherstellung</li>
-                                <li>Ein Törtchen und ein warmes Getränk der Pâtisserie CØR</li>
+                                <li>Ein Törtchen und ein warmes Getränk der Pâtisserie CØR (Mannheim) / Ein warmes Getränk (Hamburg)</li>
                                 <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
                                 <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
                             </ul>
@@ -26,12 +26,15 @@ function loadContent(page) {
 
                             <h2>Nächster freier Termin</h2>
                             <p>So, 16. Februar 2025 in Mannheim</p>
+                            <p>Sa, 08. März 2025 in Hamburg</p>
+                            <p>Sa, 29. März 2025 in Mannheim</p>
 
                             <h2>Uhrzeit</h2>
                             <p>10:00 Uhr - 13:30 Uhr</p>
 
                             <h2>Wo</h2>
-                            <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
+                            <p>Mannheim: Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
+                            <p>Hamburg: Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
 
                             <h2>Kosten</h2>
                             <p>89 Euro</p>
