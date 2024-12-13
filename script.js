@@ -24,11 +24,12 @@ function loadContent(page) {
 
                             <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim und Hamburg statt.</p>
 
-                            <h2>Nächste freie Termine</h2>
-                            <p>So, 16. Februar 2025 in Mannheim</p>
-                            <p>Sa, 29. März 2025 in Mannheim</p>
-                            <h2>AUSVERKAUFT</h2>
-                            <p>Sa, 08. März 2025 in Hamburg</p>
+                            <h2>Nächste Termine</h2>
+                            <ul>
+                                <li>So, 16. Februar 2025 in Mannheim (noch freie Plätze)</li>
+                                <li>Sa, 08. März 2025 in Hamburg (ausgebucht)</li>
+                                <li>Sa, 29. März 2025 in Mannheim (noch freie Plätze)</li>
+                            </ul>
 
                             <h2>Uhrzeit</h2>
                             <p>10:00 Uhr - 13:30 Uhr</p>
