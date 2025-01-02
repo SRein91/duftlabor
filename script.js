@@ -36,6 +36,8 @@ function loadContent(page) {
                                 <p>    10:00 Uhr - 13:30 Uhr (noch freie Plätze)</li>
                                 <li>So, 30. März 2025 in Mannheim 
                                 <p>    10:00 Uhr - 13:30 Uhr (noch freie Plätze)</li>
+                                <li>Sa, 26. April 2025 in Mannheim 
+                                <p>    10:00 Uhr - 13:30 Uhr (noch freie Plätze)</li>
                             </ul>
 
                             <h2>Wo</h2>
