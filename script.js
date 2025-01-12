@@ -24,19 +24,19 @@ function loadContent(page) {
 
                             <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim und Hamburg statt.</p>
 
-                            <h2>Nächste freie Termine</h2>
+                            <h2>Nächste Termine Mannheim</h2>
                             <ul>
-                                <li>So, 16. Februar 2025 in Mannheim 10:00 Uhr - 13:30 Uhr</li>
-                                <li>Sa, 08. März 2025 in Hamburg 14:30 Uhr - 18:00 Uhr</li>
-                                <li>Sa, 29. März 2025 in Mannheim 10:00 Uhr - 13:30 Uhr</li>
-                                <li>So, 30. März 2025 in Mannheim 10:00 Uhr - 13:30 Uhr</li>
-                                <li>Sa, 12. April 2025 in Hamburg 10:00 Uhr - 14:30 Uhr</li>
-                                <li>Sa, 12. April 2025 in Hamburg 14:30 Uhr - 18:00 Uhr</li>
-                                <li>Sa, 26. April 2025 in Mannheim 10:00 Uhr - 13:30 Uhr</li>
+                                <li>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</li>
+                                <li>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</li>
+                                <li>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</li>
+                                <li>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</li>
                             </ul>
-                            <h2>Ausgebucht</h2>
+
+                            <h2>Nächste Termine Hamburg</h2>
                             <ul>
-                            <li>Sa, 08. März 2025 in Hamburg 10:00 Uhr - 13:30 Uhr</li>
+                                <li>Sa, 08. März 2025 in Hamburg 14:30 Uhr - 18:00 Uhr</li>
+                                <li>Sa, 12. April 2025 in Hamburg 10:00 Uhr - 13:30 Uhr</li>
+                                <li>Sa, 12. April 2025 in Hamburg 14:30 Uhr - 18:00 Uhr</li>
                             </ul>
                             <h2>Wo</h2>
                             <p>Mannheim: Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
