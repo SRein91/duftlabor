@@ -20,7 +20,7 @@ function loadContent(page) {
                             </ul>
 
                             <h2>Was du sonst noch wissen solltest</h2>
-                            <p>Der Workshop ist nicht für Duftstoff-Allergiker geeignet.</p>
+                            <p>Der Workshop ist nicht geeignet für Menschen mit Duftstoff-Allergien und Schwangere.</p>
 
                             <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim und Hamburg statt.</p>
 
