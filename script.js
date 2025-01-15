@@ -47,10 +47,10 @@ function loadContent(page) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>So, 16.02.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>Sa, 29.03.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>So, 30.03.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
@@ -91,9 +91,9 @@ function loadContent(page) {
         
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
-                                        <li>Sa, 08. März 2025 14:30 Uhr - 18:00 Uhr</li>
-                                        <li>Sa, 12. April 2025 10:00 Uhr - 13:30 Uhr</li>
-                                        <li>Sa, 12. April 2025 14:30 Uhr - 18:00 Uhr</li>
+                                        <li>Sa, 08.03.2025 14:30 Uhr - 18:00 Uhr</li>
+                                        <li>Sa, 12.04.2025 10:00 Uhr - 13:30 Uhr</li>
+                                        <li>Sa, 12.04.2025 14:30 Uhr - 18:00 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
