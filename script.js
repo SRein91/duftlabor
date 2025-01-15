@@ -11,50 +11,105 @@ function loadContent(page) {
                             <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
                             <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>
                             <p>Ob als Erlebniss in einer bunt gemischten Workshop-Gruppe, als Event für eure nächste Firmenfeier oder für einen besonderen Junggesellenabschied - seid jetzt dabei.</p>                            
-                            <h2>Unsere Highlights auf einen Blick</h2>
-                            <ul>
-                                <li>Hintergrundinfos zur Parfümherstellung</li>
-                                <li>Ein Törtchen und ein warmes Getränk der Pâtisserie CØR (Mannheim) / Ein warmes Getränk (Hamburg)</li>
-                                <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
-                                <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
-                            </ul>
+                            <p>Schicke uns ganz einfach deine Anfrage per Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
 
-                            <h2>Was du sonst noch wissen solltest</h2>
-                            <p>Der Workshop ist nicht geeignet für Menschen mit Duftstoff-Allergien und Schwangere.</p>
-
-                            <p>Unsere Workshops finden in regelmäßigen Abständen in Mannheim und Hamburg statt.</p>
-
-                            <h2>Nächste Termine Mannheim</h2>
-                            <ul>
-                                <li>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</li>
-                                <li>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                <li>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                <li>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</li>
-                            </ul>
-
-                            <h2>Nächste Termine Hamburg</h2>
-                            <ul>
-                                <li>Sa, 08. März 2025 14:30 Uhr - 18:00 Uhr</li>
-                                <li>Sa, 12. April 2025 10:00 Uhr - 13:30 Uhr</li>
-                                <li>Sa, 12. April 2025 14:30 Uhr - 18:00 Uhr</li>
-                            </ul>
-                            <h2>Wo</h2>
-                            <p>Mannheim: Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
-                            <p>Hamburg: Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
-
-                            <h2>Kosten</h2>
-                            <p>89 Euro</p>
-
-                            <h2>Anmeldung</h2>
-                            <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
-                        </div>
-                            
+                            <p>Unsere Workshops finden in regelmäßigen Abständen in 
+                            <a href="#" onclick="loadContent('mannheim')">Mannheim</a> und 
+                            <a href="#" onclick="loadContent('hamburg')">Hamburg</a> statt.
+                            </p>
+                        </div>                          
                     </div>
                 </div>
 
                 `;
             break;
-
+            case 'mannheim':
+                content.innerHTML = `
+                    <div class="workshop-container">
+                        <img src="./img/Mannheim.png" alt="Workshop Image" class="workshop-image">
+                        <div class="text-content">
+                            <div class="workshop-details">
+                                <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
+                                <p>Tauche ein in die faszinierende Welt der Düfte!</p>
+                                <p>In unserem Parfüm-Workshop in Mannheim erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
+                                <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in stilvollem Ambiente köstliche Törtchen von der Pâtisserie CØR und warmen Tee oder Kaffee – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>
+                                <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>                       
+                                <h2>Unsere Highlights auf einen Blick</h2>
+                                <ul>
+                                    <li>Hintergrundinfos zur Parfümherstellung</li>
+                                    <li>Ein Törtchen und ein warmes Getränk der Pâtisserie CØR</li>
+                                    <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
+                                    <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
+                                </ul>
+    
+                                <h2>Was du sonst noch wissen solltest</h2>
+                                <p>Der Workshop ist nicht geeignet für Menschen mit Duftstoff-Allergien und Schwangere.</p>
+    
+                                <h2>Nächste Workshop Termine Mannheim</h2>
+                                <ul>
+                                    <li>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</li>
+                                </ul>
+                                <h2>Wo</h2>
+                                <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
+    
+                                <h2>Kosten</h2>
+                                <p>89 Euro</p>
+    
+                                <h2>Anmeldung</h2>
+                                <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
+                            </div>
+                                
+                        </div>
+                    </div>
+    
+                    `;
+                break;
+                case 'hamburg':
+                    content.innerHTML = `
+                        <div class="workshop-container">
+                            <img src="./img/Hamburg.png" alt="Workshop Image" class="workshop-image">
+                            <div class="text-content">
+                                <div class="workshop-details">
+                                    <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
+                                    <p>Tauche ein in die faszinierende Welt der Düfte!</p>
+                                    <p>In unserem Parfüm-Workshop in Hamburg erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
+                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in kreativem Ambiente dein Heißgetränk – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>
+                                    <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>                       
+                                    <h2>Unsere Highlights auf einen Blick</h2>
+                                    <ul>
+                                        <li>Hintergrundinfos zur Parfümherstellung</li>
+                                        <li>Ein warmes Getränk</li>
+                                        <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
+                                        <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
+                                    </ul>
+        
+                                    <h2>Was du sonst noch wissen solltest</h2>
+                                    <p>Der Workshop ist nicht geeignet für Menschen mit Duftstoff-Allergien und Schwangere.</p>
+        
+                                    <h2>Nächste Termine Hamburg</h2>
+                                    <ul>
+                                        <li>Sa, 08. März 2025 14:30 Uhr - 18:00 Uhr</li>
+                                        <li>Sa, 12. April 2025 10:00 Uhr - 13:30 Uhr</li>
+                                        <li>Sa, 12. April 2025 14:30 Uhr - 18:00 Uhr</li>
+                                    </ul>
+                                    <h2>Wo</h2>
+                                    <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
+        
+                                    <h2>Kosten</h2>
+                                    <p>89 Euro</p>
+        
+                                    <h2>Anmeldung</h2>
+                                    <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
+                                </div>
+                                    
+                            </div>
+                        </div>
+        
+                        `;
+                    break;   
         case 'kontakt':
             content.innerHTML = `
                 <div class="workshop-container">
