@@ -8,15 +8,21 @@ function loadContent(page) {
                     <img src="./img/Workshop.png" alt="Workshop Image" class="workshop-image">
                     <div class="text-content">
                         <div class="workshop-details">
-                            <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
-                            <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>
-                            <p>Ob als Erlebniss in einer bunt gemischten Workshop-Gruppe, als Event für eure nächste Firmenfeier oder für einen besonderen Junggesellenabschied - seid jetzt dabei.</p>                            
-                            <p>Schicke uns ganz einfach deine Anfrage per Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
+                            <h1>Dein DIY-Parfüm-Workshop in Hamburg, Mannheim und Umgebung</h1>
+                            <p>Tauche ein in die faszinierende Welt der Düfte!</p>
+                            <p>Unser Parfüm-Workshop ist das ideale Erlebnis, um deine Sinne zu wecken, deiner Kreativität freien Lauf zu lassen und schon bald deinen selbst kreierten Lieblingsduft mit nach Hause zu nehmen.</p>                            
+                            
+                            <h2>Für jeden Anlass geeignet</h2>
+                            <p>Egal, ob du ein unvergessliches Erlebnis in einer bunt gemischten Workshop-Gruppe suchst, eine besondere Aktivität für eure nächste Firmenfeier planst oder einen kreativen Junggesellenabschied gestalten möchtest – unser Parfüm-Workshop ist genau das Richtige für dich.</p>
 
-                            <p>Unsere Workshops finden in regelmäßigen Abständen in 
+                            <h2>Individuelle Anfragen willkommen</h2>
+                            <p>Neben unseren regelmäßigen Workshops in 
                             <a href="#" onclick="loadContent('mannheim')">Mannheim</a> und 
-                            <a href="#" onclick="loadContent('hamburg')">Hamburg</a> statt.
-                            </p>
+                            <a href="#" onclick="loadContent('hamburg')">Hamburg</a> 
+                            bieten wir auch individuelle Veranstaltungen für den Raum Heidelberg, Frankfurt, Mannheim und Hamburg an. Perfekt für private Gruppen, maßgeschneiderte Events oder besondere Wünsche.</p>
+                            
+                            <h2>Kontaktiere uns jetzt</h2>
+                            <p>Schicke uns ganz einfach deine Anfrage per Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
                         </div>                          
                     </div>
                 </div>
