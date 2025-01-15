@@ -36,10 +36,9 @@ function loadContent(page) {
                         <div class="text-content">
                             <div class="workshop-details">
                                 <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
-                                <p>Tauche ein in die faszinierende Welt der Düfte!</p>
+                                <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken.</p>
                                 <p>In unserem Parfüm-Workshop in Mannheim erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
-                                <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in stilvollem Ambiente köstliche Törtchen von der Pâtisserie CØR und warmen Tee oder Kaffee – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>
-                                <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>                       
+                                <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in stilvollem Ambiente köstliche Törtchen von der Pâtisserie CØR und warmen Tee oder Kaffee – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                       
                                 <h2>Unsere Highlights auf einen Blick</h2>
                                 <ul>
                                     <li>Hintergrundinfos zur Parfümherstellung</li>
@@ -53,10 +52,22 @@ function loadContent(page) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>
+                                        <p>So, 16. Februar 2025</p>
+                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                    </li>
+                                    <li>
+                                        <p>Sa, 29. März 2025</p>
+                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                    </li>
+                                    <li>
+                                        <p>So, 30. März 2025</p>
+                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                    </li>
+                                    <li>
+                                        <p>Sa, 26. April 2025</p>
+                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                    </li>
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
@@ -80,10 +91,9 @@ function loadContent(page) {
                             <div class="text-content">
                                 <div class="workshop-details">
                                     <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
-                                    <p>Tauche ein in die faszinierende Welt der Düfte!</p>
+                                    <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken.</p>
                                     <p>In unserem Parfüm-Workshop in Hamburg erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
-                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in kreativem Ambiente dein Heißgetränk – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>
-                                    <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken und deine Kreativität auszuleben!</p>                       
+                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in kreativem Ambiente dein Heißgetränk – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                      
                                     <h2>Unsere Highlights auf einen Blick</h2>
                                     <ul>
                                         <li>Hintergrundinfos zur Parfümherstellung</li>
@@ -97,9 +107,18 @@ function loadContent(page) {
         
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
-                                        <li>Sa, 08. März 2025 14:30 Uhr - 18:00 Uhr</li>
-                                        <li>Sa, 12. April 2025 10:00 Uhr - 13:30 Uhr</li>
-                                        <li>Sa, 12. April 2025 14:30 Uhr - 18:00 Uhr</li>
+                                        <li>
+                                            <p>Sa, 08. März 2025</p>
+                                            <p>14:30 Uhr - 18:00 Uhr</p>
+                                        </li>
+                                        <li>
+                                            <p>Sa, 12. April 2025</p>
+                                            <p>10:00 Uhr - 13:30 Uhr</p>
+                                        </li>
+                                        <li>
+                                            <p>Sa, 12. April 2025</p>
+                                            <p>14:30 Uhr - 18:00 Uhr</p>
+                                        </li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
