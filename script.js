@@ -53,20 +53,16 @@ function loadContent(page) {
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
                                     <li>
-                                        <p>So, 16. Februar 2025</p>
-                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                        <p>So, 16. Februar 2025 10:00 Uhr - 13:30 Uhr</p>
                                     </li>
                                     <li>
-                                        <p>Sa, 29. März 2025</p>
-                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                        <p>Sa, 29. März 2025 10:00 Uhr - 13:30 Uhr</p>
                                     </li>
                                     <li>
-                                        <p>So, 30. März 2025</p>
-                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                        <p>So, 30. März 2025 10:00 Uhr - 13:30 Uhr</p>
                                     </li>
                                     <li>
-                                        <p>Sa, 26. April 2025</p>
-                                        <p>10:00 Uhr - 13:30 Uhr</p>
+                                        <p>Sa, 26. April 2025 10:00 Uhr - 13:30 Uhr</p>
                                     </li>
                                 </ul>
                                 <h2>Wo</h2>
@@ -108,16 +104,13 @@ function loadContent(page) {
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
                                         <li>
-                                            <p>Sa, 08. März 2025</p>
-                                            <p>14:30 Uhr - 18:00 Uhr</p>
+                                            <p>Sa, 08. März 2025 14:30 Uhr - 18:00 Uhr</p>
                                         </li>
                                         <li>
-                                            <p>Sa, 12. April 2025</p>
-                                            <p>10:00 Uhr - 13:30 Uhr</p>
+                                            <p>Sa, 12. April 2025 10:00 Uhr - 13:30 Uhr</p>
                                         </li>
                                         <li>
-                                            <p>Sa, 12. April 2025</p>
-                                            <p>14:30 Uhr - 18:00 Uhr</p>
+                                            <p>Sa, 12. April 2025 14:30 Uhr - 18:00 Uhr</p>
                                         </li>
                                     </ul>
                                     <h2>Wo</h2>
