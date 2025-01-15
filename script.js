@@ -8,7 +8,7 @@ function loadContent(page) {
                     <img src="./img/Workshop.png" alt="Workshop Image" class="workshop-image">
                     <div class="text-content">
                         <div class="workshop-details">
-                            <h1>Dein DIY-Parfüm-Workshop in Hamburg, Mannheim und Umgebung</h1>
+                            <h1>Dein DIY Parfüm Workshop in Hamburg, Mannheim und Umgebung</h1>
                             <p>Tauche ein in die faszinierende Welt der Düfte!</p>
                             <p>Unser Parfüm-Workshop ist das ideale Erlebnis, um deine Sinne zu wecken, deiner Kreativität freien Lauf zu lassen und schon bald deinen selbst kreierten Lieblingsduft mit nach Hause zu nehmen.</p>                            
                             
