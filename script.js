@@ -52,7 +52,7 @@ function loadContent(page) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>So, 16.02.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>So, 16.02.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 29.03.2025 10:00 Uhr - 13:30 Uhr</li>
                                     <li>So, 30.03.2025 10:00 Uhr - 13:30 Uhr</li>
                                     <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr</li>
@@ -95,6 +95,7 @@ function loadContent(page) {
         
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
+                                        <li>Sa, 08.03.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                         <li>Sa, 08.03.2025 14:30 Uhr - 18:00 Uhr</li>
                                         <li>Sa, 12.04.2025 10:00 Uhr - 13:30 Uhr</li>
                                         <li>Sa, 12.04.2025 14:30 Uhr - 18:00 Uhr</li>
