@@ -54,7 +54,7 @@ function loadContent(page) {
                                 <ul>
                                     <li>So, 16.02.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 29.03.2025 10:00 Uhr - 13:30 Uhr</li>
-                                    <li>So, 30.03.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>So, 30.03.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
