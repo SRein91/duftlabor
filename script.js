@@ -223,6 +223,8 @@ function loadContent(page) {
                         <li>Theodora Tunc</li>
                     </ul>
 
+                    <p>USt-IdNr.: DE 370186872</p>
+                    
                     <p><strong>Informationen zur Online-Streitbeilegung:</strong><br>
                     Die EU-Kommission hat eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. „OS-Plattform“) geschaffen. Die OS-Plattform dient als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten betreffend vertragliche Verpflichtungen, die aus Online-Kaufverträgen erwachsen. Sie können die OS-Plattform unter dem folgenden Link erreichen: <a href="http://ec.euopa.eu/consumers/odr" target="_blank">http://ec.euopa.eu/consumers/odr</a>.</p>
 
