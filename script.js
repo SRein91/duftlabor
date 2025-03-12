@@ -16,7 +16,7 @@ function loadContent(page) {
                             <p>Egal, ob du ein unvergessliches Erlebnis in einer bunt gemischten Workshop-Gruppe suchst, eine besondere Aktivität für eure nächste Firmenfeier planst oder einen kreativen Junggesellenabschied gestalten möchtest – unser Parfüm-Workshop ist genau das Richtige für dich.</p>
 
                             <h2>Individuelle Anfragen willkommen</h2>
-                            <p>Neben unseren regelmäßigen Workshops in 
+                            <p>Neben unseren Workshops in 
                             <a href="#" onclick="loadContent('mannheim')">Mannheim</a> und 
                             <a href="#" onclick="loadContent('hamburg')">Hamburg</a> 
                             bieten wir auch individuelle Veranstaltungen für den Raum Heidelberg, Frankfurt, Mannheim und Hamburg an. Perfekt für private Gruppen, maßgeschneiderte Events oder besondere Wünsche.</p>
