@@ -230,7 +230,7 @@ function loadContent(page) {
                                 </p>
                                 <h3>Wie kann ich eine Geschenkkarte kaufen?</h3>
                                 <p>
-                                Ganz einfach: Schick uns eine E-Mail an an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>.
+                                Ganz einfach: Schick uns eine E-Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>.
                                 </p>
                                 <h3>Ist der Workshop für Allergiker geeignet?</h3>
                                 <p>
