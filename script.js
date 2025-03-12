@@ -194,6 +194,54 @@ function loadContent(page) {
                 `;
             break;
 
+            case 'faq':
+                content.innerHTML = `
+                    <div class="workshop-container">
+                        <img src="./img/faq.png" alt="Workshop Image" class="workshop-image">
+                        <div class="text-content">
+                            <div class="gift-section">
+                                <h1>FAQ</h1>
+                                <h3>Ist der Workshop für Männer geeignet? </h3>
+                                <p>
+                                Ja, der Workshop ist für Männer genauso geeignet wie für Frauen! Wir bringen immer genügend Duftstoffe mit, die sich perfekt für die Kreation von Männer-Parfüms eignen.
+                                <h3>Ist der Workshop für Beginner oder Fortgeschrittene empfehlenswert?</h3>
+                                <p>
+                                Unser Workshop ist für beide geeignet! Es geht ums Experimentieren und Ausprobieren, sodass immer wieder einzigartige Düfte entstehen.
+                                </p>
+                                <h3>Wie läuft ein Workshop bei duftlabor ab?</h3>
+                                <p>
+                                Unser Workshop kombiniert Theorie mit einem großen Anteil Praxis: Zunächst erhälst du Infos zu den Grundlagen der Duftkomposition und der Struktur eines Parfüms. Anschließend kannst du ganz praktisch verschiedene Duftnoten bewerten, mit diesen experimentieren und in der Zusammensetzung dein eigenes Parfüm kreieren.
+                                </p>
+                                <h3>Muss ich etwas mitbringen?</h3>
+                                <p>
+                                Du musst nichts mitbringen, wir stellen alles bereit.
+                                </p>
+                                <h3>Wie viele Duftnoten stehen zur Verfügung?</h3>
+                                <p>
+                                Wir haben immer 18 Standard- und mehrere Spezialduftnoten im Gepäck, die eine große Vielfalt an Kombinationsmöglichkeiten bieten – für jeden Geschmack, ohne die Nase zu überfordern.
+                                </p>
+                                <h3>Woher bezieht duftlabor seine Duftstoffe?</h3>
+                                <p>
+                                Unsere Duftstoffe beziehen wir von spezialisierten Parfümstoffhändlern in Deutschland, um höchste Qualität zu gewährleisten.
+                                </p>
+                                <h3>Ich möchte ein Teamevent mit duftlabor organisieren - ist das möglich?</h3>
+                                <p>
+                                Gerne richten wir dir ein Teamevent aus - Schreibe uns dazu am Besten eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>.
+                                </p>
+                                <h3>Wie kann ich eine Geschenkkarte kaufen?</h3>
+                                <p>
+                                Ganz einfach: Schick uns eine E-Mail an an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a>.
+                                </p>
+                                <h3>Ist der Workshop für Allergiker geeignet?</h3>
+                                <p>
+                                Der Workshop ist nicht für Personen mit Duftstoffallergien geeignet. Bitte beachte dies bei deiner Anmeldung.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    `;
+                break;
+
         case 'agb':
             fetch('./AGBFooter.html') 
             .then(response => response.text())

@@ -150,7 +150,7 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;          /* Set the font size */
+    font-size: 16px;          /* Set the font size */
     color: #000000;           /* Set the text color (same green you used for h1) */
     font-weight: bold;        /* Make the text bold */
     margin-top: 0px;         /* Add space above the heading */
