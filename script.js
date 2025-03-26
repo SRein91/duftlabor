@@ -54,7 +54,7 @@ function loadContent(page) {
                                 <ul>
                                     <li>Sa, 29.03.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                     <li>So, 30.03.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
-                                    <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr</li>
+                                    <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
@@ -96,7 +96,7 @@ function loadContent(page) {
                                     <ul>
                                         <li>Sa, 08.03.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                         <li>Sa, 08.03.2025 14:30 Uhr - 18:00 Uhr (ausgebucht)</li>
-                                        <li>Sa, 12.04.2025 10:00 Uhr - 13:30 Uhr</li>
+                                        <li>Sa, 12.04.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                         <li>Sa, 12.04.2025 14:30 Uhr - 18:00 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
