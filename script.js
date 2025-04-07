@@ -53,7 +53,7 @@ function loadContent(page) {
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
                                     <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
-                                    <li>So, 27.04.2025 14:00 Uhr - 17:30 Uhr</li>
+                                    <li>So, 27.04.2025 14:00 Uhr - 17:30 Uhr (ausgebucht)</li>
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>26.04.2025: Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
