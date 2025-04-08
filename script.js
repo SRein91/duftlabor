@@ -291,8 +291,8 @@ function loadContent(page, push = true) {
     }
 }
 
-// Handle browser forward/back buttons
-window.addEventListener('popstate', function(event) {
+//This listens to the browser’s back/forward events and reloads the correct content.
+window.addEventListener('popstate', (event) => {
     if (event.state && event.state.page) {
         loadContent(event.state.page, false);
     }
