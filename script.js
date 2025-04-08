@@ -1,4 +1,4 @@
-function loadContent(page) {
+function loadContent(page, push = true) {
     let content = document.getElementById('content');
     
     switch (page) {
@@ -284,6 +284,10 @@ function loadContent(page) {
 
         default:
             content.innerHTML = `<h1>Seite nicht gefunden</h1>`;
+    }
+    // Push to browser history if needed
+    if (push) {
+        history.pushState({ page: page }, '', page);
     }
 }
 
