@@ -38,7 +38,7 @@ function loadContent(page) {
                                 <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
                                 <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken.</p>
                                 <p>In unserem Parfüm-Workshop in Mannheim erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
-                                <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in stilvollem Ambiente köstliche Törtchen von der Pâtisserie CØR und warmen Tee oder Kaffee – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                       
+                                <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung - und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                       
                                 <h2>Unsere Highlights auf einen Blick</h2>
                                 <ul>
                                     <li>Hintergrundinfos zur Parfümherstellung</li>
