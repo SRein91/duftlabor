@@ -298,7 +298,8 @@ window.addEventListener('popstate', function(event) {
     }
 });
 
-// Load the default 'Workshops' page on initial load
+// Load the correct page based on URL path on initial load
 document.addEventListener("DOMContentLoaded", function() {
-    loadContent('workshops');
+    let path = window.location.pathname.replace('/', '') || 'workshops';
+    loadContent(path, false);
 });
