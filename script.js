@@ -291,6 +291,13 @@ function loadContent(page, push = true) {
     }
 }
 
+// Handle browser forward/back buttons
+window.addEventListener('popstate', function(event) {
+    if (event.state && event.state.page) {
+        loadContent(event.state.page, false);
+    }
+});
+
 // Load the default 'Workshops' page on initial load
 document.addEventListener("DOMContentLoaded", function() {
     loadContent('workshops');
