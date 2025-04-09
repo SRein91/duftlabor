@@ -87,8 +87,7 @@ function loadContent(page, push = true) {
                                     <h2>Unsere Highlights auf einen Blick</h2>
                                     <ul>
                                         <li>Hintergrundinfos zur Parfümherstellung</li>
-                                        <li>Ein warmes Getränk (12.04 & 15.06)</li>
-                                        <li>Ein Softgetränk (10.07)</li>
+                                        <li>Ein Getränk</li>
                                         <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
                                         <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
                                     </ul>
