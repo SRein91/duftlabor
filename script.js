@@ -83,11 +83,12 @@ function loadContent(page, push = true) {
                                     <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
                                     <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken.</p>
                                     <p>In unserem Parfüm-Workshop in Hamburg erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
-                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung. Genieße in kreativem Ambiente dein Heißgetränk – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                      
+                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                      
                                     <h2>Unsere Highlights auf einen Blick</h2>
                                     <ul>
                                         <li>Hintergrundinfos zur Parfümherstellung</li>
-                                        <li>Ein warmes Getränk</li>
+                                        <li>Ein warmes Getränk (12.04 & 15.06)</li>
+                                        <li>Ein Softgetränk (10.07)</li>
                                         <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
                                         <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
                                     </ul>
@@ -99,6 +100,8 @@ function loadContent(page, push = true) {
                                     <ul>
                                         <li>Sa, 12.04.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
                                         <li>Sa, 12.04.2025 14:30 Uhr - 18:00 Uhr</li>
+                                        <li>So, 15.06.2025 14:00 Uhr - 17:00 Uhr</li>
+                                        <li>Do, 10.07.2025 17:30 Uhr - 20:30 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
