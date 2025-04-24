@@ -51,16 +51,13 @@ function loadContent(page, push = true) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>Sa, 26.04.2025 10:00 Uhr - 13:30 Uhr (ausgebucht)</li>
-                                    <li>So, 27.04.2025 14:00 Uhr - 17:30 Uhr (ausgebucht)</li>
                                     <li>Do, 05.06.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Sa, 07.06.2025 10:30 Uhr - 13:30 Uhr</li>
                                     <li>So, 06.07.2025 14:30 Uhr - 17:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
-                                <p>26.04.2025: Pâtisserie CØR<br>Lameystraße 17<br>68165 Mannheim</p>
-                                <p>27.04.2025: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
                                 <p>05.06.2025: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
-                                <p>06.07.2025: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
+                                <p>07.06.2025 & 06.07.2025: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
     
                                 <h2>Kosten</h2>
                                 <p>89 Euro</p>
