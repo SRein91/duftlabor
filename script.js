@@ -51,13 +51,14 @@ function loadContent(page, push = true) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>Do, 05.06.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Do, 05.06.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 07.06.2025 10:30 Uhr - 13:30 Uhr</li>
-                                    <li>So, 06.07.2025 14:30 Uhr - 17:30 Uhr</li>
+                                    <li>Sa, 05.07.2025 14:30 Uhr - 17:30 Uhr</li>
+                                    <li>So, 06.07.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li>
                                 </ul>
                                 <h2>Wo</h2>
-                                <p>05.06.2025: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
-                                <p>07.06.2025 & 06.07.2025: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
+                                <p>05.06: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
+                                <p>07.06 & 06.07 & 05.07: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
     
                                 <h2>Kosten</h2>
                                 <p>89 Euro</p>
@@ -94,8 +95,10 @@ function loadContent(page, push = true) {
         
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
-                                        <li>So, 15.06.2025 14:00 Uhr - 17:00 Uhr</li>
-                                        <li>Do, 10.07.2025 17:30 Uhr - 20:30 Uhr</li>
+                                        <li>So, 15.06.2025 14:00 Uhr - 17:00 Uhr (ausgebucht)</li>
+                                        <li>So, 15.06.2025 17:45 Uhr - 20:45 Uhr (ausgebucht)</li>
+                                        <li>Do, 10.07.2025 17:30 Uhr - 20:30 Uhr (ausgbeucht)</li>
+                                        <li>Fr, 11.07.2025 17:00 Uhr - 20:00 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
