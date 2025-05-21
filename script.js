@@ -54,7 +54,7 @@ function loadContent(page, push = true) {
                                     <li>Do, 05.06.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 07.06.2025 10:30 Uhr - 13:30 Uhr</li>
                                     <li>Sa, 05.07.2025 10:00 Uhr - 13:00 Uhr</li>
-                                    <li>Sa, 05.07.2025 14:30 Uhr - 17:30 Uhr</li>
+                                    <li>Sa, 05.07.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li>
                                     <li>So, 06.07.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li>
                                 </ul>
                                 <h2>Wo</h2>
@@ -100,8 +100,8 @@ function loadContent(page, push = true) {
                                         <li>So, 15.06.2025 17:45 Uhr - 20:45 Uhr (ausgebucht)</li>
                                         <li>Do, 10.07.2025 17:30 Uhr - 20:30 Uhr (ausgbeucht)</li>
                                         <li>Fr, 11.07.2025 17:00 Uhr - 20:00 Uhr (ausgebucht)</li>
-                                        <li>Do, 24.07.2025 17:30 Uhr - 20:30 Uhr</li>
-                                        <li>Fr, 08.08.2025 17:30 Uhr - 20:30 Uhr</li>
+                                        <li>Do, 24.07.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
+                                        <li>Fr, 08.08.2025 17:30 Uhr - 20:30 Uhr (noch ein Platz)</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
