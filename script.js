@@ -254,7 +254,11 @@ function loadContent(page, push = true) {
                                 <p>Wie Gerüche unsere Emotionen beeinflussen...</p>
                                 <button onclick="loadContent('blog-emotionen')">Mehr lesen</button>
                             </div>
-                            <!-- Add more blog previews here if needed -->
+                            <div class="blog-preview">
+                                <img src="./img/Produkte.png" alt="Produkte" class="blog-thumb">
+                                <h3>Produkte für dein DIY-duftlabor für Zuhause</h3>
+                                <p>Du möchtest nach unserem Workshop weiter...</p>
+                                <button onclick="loadContent('blog-produkte')">Mehr lesen</button>
                         </div>
                     `;
                     break;                
@@ -297,6 +301,44 @@ function loadContent(page, push = true) {
         
                         `;
                     break;
+                    case 'blog-produkte':
+                        content.innerHTML = `
+                            <div class="workshop-container">
+                                <img src="./img/Produkte.png" alt="Workshop Image" class="workshop-image">
+                                <div class="text-content">
+                                    <div class="workshop-details">
+                                        <h1>Produkte für dein DIY-Duftlabor für Zuhause</h1>
+                                        <p>Du möchtest nach unserem Workshop weiter in die Welt der Düfte eintauchen? Hier findest du unsere Produktempfehlungen für deine eigenen Duftkreationen zu Hause.</p>
+                                        <p><strong>Transparenz-Hinweis:</strong> Einige der folgenden Links sind sogenannte Affiliate-Links. Wenn du über sie einkaufst, erhalten wir eine kleine Provision. Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich nichts am Preis – vielen Dank für deine Unterstützung!</p>
+                    
+                                        <h2>Grundstoffe & Arbeitsmaterialien</h2>
+                                        <p>Kosmetisches Basiswasser (1 Liter – Sala)<br><a href="https://amzn.to/43lCgMy" target="_blank">Zum Produkt</a></p>
+                                        <p>Einwegpipetten<br><a href="https://amzn.to/3GY2pt8" target="_blank">Zum Produkt</a></p>
+                                        <p>Becherglas (zum Mischen deiner Öle)<br><a href="https://amzn.to/3YRMTW2" target="_blank">Zum Produkt</a></p>
+                                        <p>Handschuhe (Einweg)<br><a href="https://amzn.to/4jaT9PH" target="_blank">Zum Produkt</a></p>
+                                        <p>Etiketten zur Beschriftung der Pipetten & Fläschchen<br><a href="https://amzn.to/3FmmJUy" target="_blank">Zum Produkt</a></p>
+                    
+                                        <h2>Dosieren & Wiegen</h2>
+                                        <p>Feinwaage – Variante 1 (unter 30 €)<br><a href="https://amzn.to/4j60UGA" target="_blank">Zum Produkt</a></p>
+                                        <p>Feinwaage – Variante 2 (unter 60 €)<br><a href="https://amzn.to/4koky1R" target="_blank">Zum Produkt</a></p>
+                                        <p>Elektrische Pipetten mit Aufsätzen<br>Variante 1 <a href="https://amzn.to/4kmQcfY" target="_blank">Zum Produkt</a><br>Variante 2 <a href="https://amzn.to/4kassMk" target="_blank">Zum Produkt</a></p>
+                    
+                                        <h2>Testen deiner Kreationen</h2>
+                                        <p>Duftstreifen – Variante 1<br><a href="https://amzn.to/4koky1R" target="_blank">Zum Produkt</a></p>
+                                        <p>Duftstreifen – Variante 2<br><a href="https://amzn.to/4jaSGwV" target="_blank">Zum Produkt</a></p>
+                    
+                                        <h2>Abfüllen & Aufbewahren</h2>
+                                        <p>Pipettenflaschen (ideal für Alkohol-Duftstoffgemische)<br><a href="https://amzn.to/4mlYvKP" target="_blank">Zum Produkt</a></p>
+                                        <p>Experimentier-Fläschchen<br>5 ml <a href="https://amzn.to/45dCZ4M" target="_blank">Zum Produkt</a><br>10 ml <a href="https://amzn.to/4dikhuW" target="_blank">Zum Produkt</a></p>
+                                        <p>Flakons für fertige Parfums<br>10 ml <a href="https://amzn.to/3EYJOwF" target="_blank">Zum Produkt</a><br>30 ml <a href="https://amzn.to/4dmq1nz" target="_blank">Zum Produkt 1</a>, <a href="https://amzn.to/4dikhuW" target="_blank">Produkt 2</a><br>50 ml <a href="https://amzn.to/4knsctg" target="_blank">Zum Produkt</a></p>
+                    
+                                        <h2>Lesetipp für Duftliebhaber:innen</h2>
+                                        <p>„Parfum – Alles über die Welt der Düfte“<br>Ein wunderschönes Buch über Duftstoffe, Geschichte und Herstellung.<br><a href="https://amzn.to/4kgt6rw" target="_blank">Zum Buch</a></p>
+                                    </div>                          
+                                </div>
+                            </div>
+                        `;
+                        break;
 
         case 'agb':
             fetch('./AGBFooter.html') 
