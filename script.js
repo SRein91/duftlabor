@@ -54,7 +54,7 @@ function loadContent(page, push = true) {
                                     <li>Do, 05.06.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 07.06.2025 10:30 Uhr - 13:30 Uhr (ausgebucht)</li>
                                     <li>Sa, 05.07.2025 10:00 Uhr - 13:00 Uhr (noch ein Platz)</li>
-                                    <li>Sa, 05.07.2025 14:30 Uhr - 17:30 Uhr (noch zwei Plätze)</li>
+                                    <li>Sa, 05.07.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li>
                                     <li>So, 06.07.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li>
                                 </ul>
                                 <h2>Wo</h2>
