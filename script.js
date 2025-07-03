@@ -57,10 +57,14 @@ function loadContent(page, push = true) {
                                     <li>Mi, 20.08.2025 18:00 Uhr - 21:00 Uhr</li>
                                     <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr</li>
                                     <li>Sa, 27.09.2025 10:00 Uhr - 13:00 Uhr</li>
+                                    <li>Do, 30.10.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Do, 20.11.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Do, 11.12.2025 17:30 Uhr - 20:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>06.07 & 05.07 & 27.09: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
                                 <p>20.08: Eichendorffstraße 12<br>68167 Mannheim</p>
+                                <p>30.10 & 20.11 & 11.12: Studio Garage<brUhlandstraße 26A<br>68167 Mannheim</p>
     
                                 <h2>Kosten</h2>
                                 <p>89 Euro</p>
