@@ -64,7 +64,7 @@ function loadContent(page, push = true) {
                                 <h2>Wo</h2>
                                 <p>06.07 & 05.07 & 27.09: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
                                 <p>20.08: Eichendorffstraße 12<br>68167 Mannheim</p>
-                                <p>30.10 & 20.11 & 11.12: Studio Garage<brUhlandstraße 26A<br>68167 Mannheim</p>
+                                <p>30.10 & 20.11 & 11.12: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
     
                                 <h2>Kosten</h2>
                                 <p>89 Euro</p>
