@@ -51,10 +51,13 @@ function loadContent(page, push = true) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>Mi, 20.08.2025 18:00 Uhr - 21:00 Uhr</li>
-                                    <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr</li>
+                                    <li>Mi, 20.08.2025 18:00 Uhr - 21:00 Uhr (noch zwei Plätze)</li>
                                     <li>Sa, 27.09.2025 10:00 Uhr - 13:00 Uhr</li>
+                                    <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr (noch zwei Plätze)</li> 
+                                    <li>Sa, 18.10.2025 14:30 Uhr - 17:30 Uhr</li>
+                                    <li>So, 19.10.2025 14:30 Uhr - 17:30 Uhr</li>
                                     <li>Do, 30.10.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Sa, 01.11.2025 14:30 Uhr - 17:30 Uhr</li>
                                     <li>Do, 20.11.2025 17:30 Uhr - 20:30 Uhr</li>
                                     <li>Do, 11.12.2025 17:30 Uhr - 20:30 Uhr</li>
                                 </ul>
