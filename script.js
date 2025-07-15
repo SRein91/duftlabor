@@ -53,7 +53,7 @@ function loadContent(page, push = true) {
                                 <ul>
                                     <li>Mi, 20.08.2025 18:00 Uhr - 21:00 Uhr (noch zwei Plätze)</li>
                                     <li>Sa, 27.09.2025 10:00 Uhr - 13:00 Uhr</li>
-                                    <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr (noch zwei Plätze)</li> 
+                                    <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li> 
                                     <li>Sa, 18.10.2025 14:30 Uhr - 17:30 Uhr</li>
                                     <li>So, 19.10.2025 14:30 Uhr - 17:30 Uhr</li>
                                     <li>Do, 30.10.2025 17:30 Uhr - 20:30 Uhr</li>
