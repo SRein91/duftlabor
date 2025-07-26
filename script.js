@@ -8,7 +8,7 @@ function loadContent(page, push = true) {
                     <img src="./img/Workshop.png" alt="Workshop Image" class="workshop-image">
                     <div class="text-content">
                         <div class="workshop-details">
-                            <h1>Dein DIY Parfüm Workshop in Hamburg, Mannheim und Umgebung</h1>
+                            <h1>Dein DIY Parfüm Workshop in Frankfurt, Hamburg, Mannheim, und Umgebung</h1>
                             <p>Tauche ein in die faszinierende Welt der Düfte!</p>
                             <p>Unser Parfüm-Workshop ist das ideale Erlebnis, um deine Sinne zu wecken, deiner Kreativität freien Lauf zu lassen und schon bald deinen selbst kreierten Lieblingsduft mit nach Hause zu nehmen.</p>                            
                             
@@ -17,7 +17,8 @@ function loadContent(page, push = true) {
 
                             <h2>Individuelle Anfragen willkommen</h2>
                             <p>Neben unseren Workshops in 
-                            <a href="#" onclick="loadContent('mannheim')">Mannheim</a> und 
+                            <a href="#" onclick="loadContent('mannheim')">Mannheim</a>,
+                            <a href="#" onclick="loadContent('frankfurt')">Frankfurt</a> und 
                             <a href="#" onclick="loadContent('hamburg')">Hamburg</a> 
                             bieten wir auch individuelle Veranstaltungen für den Raum Heidelberg, Frankfurt, Mannheim und Hamburg an. Perfekt für private Gruppen, maßgeschneiderte Events oder besondere Wünsche.</p>
                             
@@ -121,6 +122,46 @@ function loadContent(page, push = true) {
         
                         `;
                     break;   
+                case 'frankfurt':
+                    content.innerHTML = `
+                        <div class="workshop-container">
+                            <img src="./img/Frankfurt.png" alt="Workshop Image" class="workshop-image">
+                            <div class="text-content">
+                                <div class="workshop-details">
+                                    <h1>Entdecke die Welt der Düfte – Dein Parfüm-Workshop</h1>
+                                    <p>Bist du bereit, in die aufregende Welt der Düfte einzutauchen? Unser Parfüm-Workshop ist das perfekte Erlebnis, um deine Sinne zu wecken.</p>
+                                    <p>In unserem Parfüm-Workshop in Hamburg erwartet Dich ein unvergessliches Erlebnis, bei dem Du die Grundlagen der Parfümherstellung erlernst und Deine Kreativität voll ausleben kannst.</p> 
+                                    <p>Unter fachkundiger Anleitung mischst Du Deinen eigenen, ganz persönlichen Duft und erfährst Spannendes über die Parfümherstellung – und nimm am Ende 50 ml Deines selbstkreierten Parfüms mit nach Hause!</p>                      
+                                    <h2>Unsere Highlights auf einen Blick</h2>
+                                    <ul>
+                                        <li>Hintergrundinfos zur Parfümherstellung</li>
+                                        <li>Ein Getränk</li>
+                                        <li>Die Möglichkeit neue Kontakte zu knüpfen und nette Leute kennen zu lernen</li>
+                                        <li>Einen 50 ml Flakon mit deinem selbstkreierten Parfüm, den du mit nach Hause nehmen darfst</li>
+                                    </ul>
+        
+                                    <h2>Was du sonst noch wissen solltest</h2>
+                                    <p>Der Workshop ist nicht geeignet für Menschen mit Duftstoff-Allergien und Schwangere.</p>
+        
+                                    <h2>Nächste Termine Frankfurt</h2>
+                                    <ul>
+                                        <li>So, 28.09.2025 14:00 Uhr - 17:00 Uhr</li>
+                                    </ul>
+                                    <h2>Wo</h2>
+                                    <p>Rosmarinparty<br>Kalkentalstraße 4-6<br>60489 Frankfurt</p>
+        
+                                    <h2>Kosten</h2>
+                                    <p>89 Euro</p>
+        
+                                    <h2>Anmeldung</h2>
+                                    <p>Schicke uns ganz einfach eine Mail an <a href="mailto:duftlabor@gmail.com">duftlabor@gmail.com</a> oder schreibe uns eine WhatsApp <a href="tel:+491786142934">+49 178 6142934</a>.</p>
+                                </div>
+                                    
+                            </div>
+                        </div>
+        
+                        `;
+                    break;  
         case 'kontakt':
             content.innerHTML = `
                 <div class="workshop-container">
