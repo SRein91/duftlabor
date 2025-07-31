@@ -176,7 +176,7 @@ function loadContent(page, push = true) {
                                 <li>Instagram&nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
                                 <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
-                            <p>Stella, Theodora & Sonja</p>
+                            <p>Stella & Sonja</p>
                         </div>
                     </div>
                 </div>
@@ -411,7 +411,6 @@ function loadContent(page, push = true) {
                     <ul>
                         <li>Stella Norwig</li>
                         <li>Sonja Reinholz</li>
-                        <li>Theodora Tunc</li>
                     </ul>
 
                     <p>USt-IdNr.: DE 370186872</p>
