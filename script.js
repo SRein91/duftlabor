@@ -411,7 +411,6 @@ function loadContent(page, push = true) {
                     <ul>
                         <li>Stella Norwig</li>
                         <li>Sonja Reinholz</li>
-                        <li>Theodora Tunc</li>
                     </ul>
 
                     <p>USt-IdNr.: DE 370186872</p>
