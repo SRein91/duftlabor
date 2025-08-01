@@ -308,44 +308,6 @@ function loadContent(page, push = true) {
                     `;
                     break;                
                 
-                case 'blog-emotionen':
-                    content.innerHTML = `
-                        <div class="workshop-container">
-                            <img src="./img/Emotionen.png" alt="Workshop Image" class="workshop-image">
-                            <div class="text-content">
-                                <div class="workshop-details">
-                                    <h1>Die Psychologie der Düfte: Wie Gerüche unsere Stimmung beeinflussen</h1>
-                                    <p>Düfte haben eine beachtliche Fähigkeit, unsere Emotionen zu beeinflussen und Erinnerungen wachzurufen. Diese Wirkung beruht auf der engen Verbindung zwischen unserem Geruchssinn und bestimmten Hirnregionen, die für Emotionen und Erinnerungen zuständig sind.</p>                         
-                                    
-                                    <h2>Gerüche und emotionale Reaktionen</h2>
-                                    <p>Bestimmte Düfte können starke emotionale Reaktionen hervorrufen. Zum Beispiel kann der Geruch von Lavendel beruhigend wirken und Stress reduzieren, während der Duft von Zitrusfrüchten wie Orange oder Grapefruit eine belebende und erfrischende Wirkung hat. Diese Reaktionen sind oft mit positiven oder negativen Erinnerungen verbunden, da der Geruchssinn direkt mit dem limbischen System verbunden ist, das auch für die Speicherung von Erinnerungen verantwortlich ist.</p>
-        
-                                    <h2>Lavendel und Entspannung</h2>
-                                    <p>Lavendel wird häufig in Aromatherapien verwendet, um Angstzustände zu lindern und Schlafstörungen zu bekämpfen. Der beruhigende Duft von Lavendel hat eine entspannende Wirkung auf den Körper, reduziert die Herzfrequenz und kann den Blutdruck senken. Dieser Effekt wird oft in der Kosmetikindustrie verwendet, um eine entspannte Atmosphäre zu schaffen.</p>
-                                    
-                                    <h2>Zitrusfrüchte und Energie</h2>
-                                    <p>Zitrusdüfte, wie die von Zitronen oder Orangen, können die Stimmung heben und eine stimulierende Wirkung haben. Sie fördern das allgemeine Wohlbefinden und sind oft in Produkten enthalten, die darauf abzielen, Energie und Frische zu vermitteln. Der Duft von Zitrusfrüchten kann auch die Konzentration verbessern und den Geist aktivieren.</p>
-
-                                    <h2>Vanille und Wohlbefinden</h2>
-                                    <p>Der süße, warme Duft von Vanille hat eine beruhigende Wirkung auf die Psyche. Vanille wird mit Geborgenheit und Wohlgefühl assoziiert und kann Gefühle von Trost und Geborgenheit wecken. Dieser Duft wird oft in Schlafzimmern oder Wohnzimmern verwendet, um eine gemütliche und einladende Atmosphäre zu schaffen.</p>
-                                    
-                                    <h2>Rose und romantische Gefühle</h2>
-                                    <p>Der Duft von Rosen wird oft mit Liebe, Romantik und Wohlgefühl in Verbindung gebracht. Viele Menschen finden den Geruch von Rosen angenehm und beruhigend, was auch mit seiner Geschichte in der Parfümindustrie und seiner Symbolik in verschiedenen Kulturen zu tun hat. Der Rosenduft kann dazu beitragen, romantische oder angenehme Emotionen zu verstärken.</p>
-
-                                    <h2>Aromatherapie und medizinische Anwendungen</h2>
-                                    <p>In der Aromatherapie werden ätherische Öle verwendet, um die Gesundheit und das emotionale Wohlbefinden zu fördern. Düfte wie Pfefferminze und Eukalyptus können helfen, die Konzentration zu steigern und Kopfschmerzen zu lindern. Kamille und Bergamotte hingegen werden oft zur Beruhigung und Entspannung eingesetzt.</p>
-
-                                    <h2>Der perfekte Duft beim ersten Date</h2>
-                                    <p>Es gibt kein Parfüm, das eine so extrem aphrodisierende Wirkung hat, dass sich dein Date-Partner sofort in dich verliebt. Dennoch kannst du bei der Wahl deines Parfüms darauf achten, dass du einen Duft wählst, der aphrodisierende Duftnoten wie z.B. Moschus, Amber oder Tonkabohne enthält. Als weiteren Tipp empfehlen wir dir einen Duft aufzutragen, der deine Persönlichkeit unterstreicht und mit dem du dich selbstsicher und gut fühlst, denn dann strahlst du das auch aus. Bei duftlabor bist du genau richtig -  in unserem Workshop kannst du deinen individuellen Duft kreieren und nicht nur dir, sondern auch deinem potenziellen Duft-Partner eine Freude bereiten.</p>
-                                
-                                    <h2>Fazit von duftlabor</h2>
-                                    <p>Die Psychologie der Düfte zeigt uns, wie tiefgreifend der Einfluss von Gerüchen auf unsere Stimmung und unser Verhalten sein kann. Sie wirken nicht nur auf unsere Sinne, sondern können auch unbewusst unser Wohlbefinden steigern oder unsere Emotionen beeinflussen. Düfte sind ein mächtiges Werkzeug, das wir bewusst einsetzen können, um unsere Stimmung zu steuern, unser Umfeld angenehmer zu gestalten oder uns bei der Entspannung zu unterstützen.</p>
-                                </div>                          
-                            </div>
-                        </div>
-        
-                        `;
-                    break;
                     case 'blog-produkte':
                         content.innerHTML = `
                             <div class="workshop-container">
