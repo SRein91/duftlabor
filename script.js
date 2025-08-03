@@ -176,7 +176,7 @@ function loadContent(page, push = true) {
                                 <li>Instagram&nbsp; <a href="https://www.instagram.com/duftlabor/?hl=en" target="_blank">@duftlabor</a></li>
                                 <li>Telefon &nbsp; &nbsp; &nbsp; <a href="tel:+491786142934">+49 178 6142934</a></li>
                             </ul>
-                            <p>Stella, Theodora & Sonja</p>
+                            <p>Stella & Sonja</p>
                         </div>
                     </div>
                 </div>
@@ -292,13 +292,6 @@ function loadContent(page, push = true) {
 
                 case 'blog':
                     content.innerHTML = `
-                        <div class="blog-list">
-                            <div class="blog-preview">
-                                <img src="./img/Emotionen.png" alt="Emotionen" class="blog-thumb">
-                                <h3>Die Psychologie der Düfte</h3>
-                                <p>Wie Gerüche unsere Emotionen beeinflussen...</p>
-                                <button onclick="loadContent('blog-emotionen')">Mehr lesen</button>
-                            </div>
                             <div class="blog-preview">
                                 <img src="./img/Produkte.png" alt="Produkte" class="blog-thumb">
                                 <h3>Produkte für dein DIY-duftlabor für Zuhause</h3>
@@ -307,6 +300,7 @@ function loadContent(page, push = true) {
                         </div>
                     `;
                     break;                
+                
                     case 'blog-produkte':
                         content.innerHTML = `
                             <div class="workshop-container">
