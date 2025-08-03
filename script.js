@@ -292,13 +292,6 @@ function loadContent(page, push = true) {
 
                 case 'blog':
                     content.innerHTML = `
-                        <div class="blog-list">
-                            <div class="blog-preview">
-                                <img src="./img/Emotionen.png" alt="Emotionen" class="blog-thumb">
-                                <h3>Die Psychologie der Düfte</h3>
-                                <p>Wie Gerüche unsere Emotionen beeinflussen...</p>
-                                <button onclick="loadContent('blog-emotionen')">Mehr lesen</button>
-                            </div>
                             <div class="blog-preview">
                                 <img src="./img/Produkte.png" alt="Produkte" class="blog-thumb">
                                 <h3>Produkte für dein DIY-duftlabor für Zuhause</h3>
