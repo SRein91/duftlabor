@@ -62,7 +62,7 @@ function loadContent(page, push = true) {
                                     <li>Do, 11.12.2025 17:30 Uhr - 20:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
-                                <p>27.09 & 18.10 & 01.11: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
+                                <p>27.09 & 18.10 & 15.11: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
                                 <p>20.08: Eichendorffstraße 12<br>68167 Mannheim</p>
                                 <p>30.10 & 20.11 & 11.12: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
     
