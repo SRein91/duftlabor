@@ -52,7 +52,6 @@ function loadContent(page, push = true) {
     
                                 <h2>Nächste Workshop Termine Mannheim</h2>
                                 <ul>
-                                    <li>Mi, 20.08.2025 18:00 Uhr - 21:00 Uhr (ausgebucht)</li>
                                     <li>Sa, 27.09.2025 10:00 Uhr - 13:00 Uhr (noch ein Platz)</li>
                                     <li>Sa, 27.09.2025 14:30 Uhr - 17:30 Uhr (ausgebucht)</li> 
                                     <li>Sa, 18.10.2025 14:30 Uhr - 17:30 Uhr</li>
@@ -63,7 +62,6 @@ function loadContent(page, push = true) {
                                 </ul>
                                 <h2>Wo</h2>
                                 <p>27.09 & 18.10 & 15.11: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
-                                <p>20.08: Eichendorffstraße 12<br>68167 Mannheim</p>
                                 <p>30.10 & 20.11 & 11.12: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
     
                                 <h2>Kosten</h2>
@@ -101,11 +99,7 @@ function loadContent(page, push = true) {
         
                                     <h2>Nächste Termine Hamburg</h2>
                                     <ul>
-                                        <li>Do, 10.07.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
-                                        <li>Fr, 11.07.2025 17:00 Uhr - 20:00 Uhr (ausgebucht)</li>
-                                        <li>Fr, 08.08.2025 17:30 Uhr - 20:30 Uhr (ausgebucht)</li>
-                                        <li>Sa, 09.08.2025 11:00 Uhr - 14:00 Uhr (ausgebucht)</li>
-                                        <li>Sa, 09.08.2025 15:00 Uhr - 18:00 Uhr (ausgebucht)</li>
+                                        <li>Zur Zeit keine Termine</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Alte Brotfabrik<br>Rellinger Str. 23<br>20257 Hamburg</p>
@@ -145,7 +139,7 @@ function loadContent(page, push = true) {
         
                                     <h2>Nächste Termine Frankfurt</h2>
                                     <ul>
-                                        <li>So, 28.09.2025 14:00 Uhr - 17:00 Uhr</li>
+                                        <li>So, 28.09.2025 14:00 Uhr - 17:00 Uhr (ausgebucht)</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Rosmarinparty<br>Kalkentalstraße 4-6<br>60489 Frankfurt</p>
