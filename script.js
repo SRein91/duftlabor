@@ -140,6 +140,8 @@ function loadContent(page, push = true) {
                                     <h2>Nächste Termine Frankfurt</h2>
                                     <ul>
                                         <li>So, 28.09.2025 14:00 Uhr - 17:00 Uhr (ausgebucht)</li>
+                                        <li>So, 26.10.2025 14:00 Uhr - 17:00 Uhr</li>
+                                        <li>Sa, 15.11.2025 13:00 Uhr - 16:00 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
                                     <p>Rosmarinparty<br>Kalkentalstraße 4-6<br>60489 Frankfurt</p>
