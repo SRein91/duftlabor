@@ -60,9 +60,10 @@ function loadContent(page, push = true) {
                                     <li>Sa, 15.11.2025 14:30 Uhr - 17:30 Uhr (noch ein Platz)</li>
                                     <li>Do, 20.11.2025 17:30 Uhr - 20:30 Uhr (noch drei Plätze)</li>
                                     <li>Do, 11.12.2025 17:30 Uhr - 20:30 Uhr</li>
+                                    <li>Sa, 13.12.2025 10:30 Uhr - 13:30 Uhr</li>
                                 </ul>
                                 <h2>Wo</h2>
-                                <p>27.09 & 18.10 & 14.11 & 15.11: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
+                                <p>27.09 & 18.10 & 14.11 & 15.11 & 13.12: MeerRaum<br>Meerwiesenstraße 1<br>68163 Mannheim</p>
                                 <p>30.10 & 20.11 & 11.12: Studio Garage<br>Uhlandstraße 26A<br>68167 Mannheim</p>
     
                                 <h2>Kosten</h2>
@@ -141,7 +142,6 @@ function loadContent(page, push = true) {
                                     <h2>Nächste Termine Frankfurt</h2>
                                     <ul>
                                         <li>So, 28.09.2025 14:00 Uhr - 17:00 Uhr (ausgebucht)</li>
-                                        <li>So, 26.10.2025 14:00 Uhr - 17:00 Uhr</li>
                                         <li>Sa, 15.11.2025 13:00 Uhr - 16:00 Uhr</li>
                                     </ul>
                                     <h2>Wo</h2>
